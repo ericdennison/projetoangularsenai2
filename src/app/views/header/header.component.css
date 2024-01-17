@@ -1,0 +1,13 @@
+.mat-toobar-row .logo{
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    height: 70px;
+    width: 70px;
+}
+
+img{
+    height: 70px;
+    width: 70px;
+}
+
